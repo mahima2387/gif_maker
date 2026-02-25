@@ -1,4 +1,4 @@
-#GIF_MAKER
+# GIF_MAKER
 
 This is a simple python code that converts multiple images into a gif.
 
